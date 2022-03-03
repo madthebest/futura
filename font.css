@@ -1,7 +1,6 @@
 @font-face {
   font-family: 'futura';
-  src: url('Futura.eot?raw=true') format('embedded-opentype'), 
-    url('Futura.woff?raw=true') format('woff'), url('Futura.ttf?raw=true')  format('truetype');
+  src: url('Futura.ttf') format('truetype');
       font-weight: normal;
     font-style: normal;
 }
